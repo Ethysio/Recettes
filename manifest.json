@@ -1,0 +1,16 @@
+{
+  "name": "Mes Recettes & Courses",
+  "short_name": "Recettes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='115' fill='%23d97706'/><path d='M110 140h40l35 150h190l35-130H150' fill='none' stroke='%23ffffff' stroke-width='36' stroke-linecap='round' stroke-linejoin='round'/><circle cx='210' cy='380' r='32' fill='%23ffffff'/><circle cx='370' cy='380' r='32' fill='%23ffffff'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
